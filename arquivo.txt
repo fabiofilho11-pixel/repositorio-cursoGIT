@@ -1,1 +1,5 @@
- 
+RESUMO:
+ Git, criado por linus(criador do linux), em meados de 2008, é uma plataforma de codificação, para gerenciar versões.
+ Com a criação do github, site de hospedagem é responsável pela compartilhação de arquivos.
+ Foi apresentado também os códigos do Git, que são necessários para o funcionamento do código como git init(que vai iniciar), git add(para adicionar um arquivo) e etc.
+ Após a apresentação do sobre o git e o github, abrimos um repositório no proprio github e começamos a testar, desde o git init até o git push.
